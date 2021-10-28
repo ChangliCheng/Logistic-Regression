@@ -1,6 +1,4 @@
 #Logistic regression
-#Performance evaluation
-#Dessislava Pachamanova
 
 ############################
 #State whether scientific notation is preferable
