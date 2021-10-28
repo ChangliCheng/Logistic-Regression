@@ -1,1 +1,1 @@
-# KNN
+# Logistic Regression
